@@ -2,5 +2,5 @@
 --aws ec2 create-vpc\
 --region= us-east-1\
 --cidr block ip =10.956.900.23\
-    --resources VPC=vpcid \
+    
     
